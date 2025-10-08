@@ -11,3 +11,4 @@ class Karyawan{
 }
 
     const karyawan = new Karyawan("Laksa", "Animator", "10000000");
+    console.log(karyawan.info());
